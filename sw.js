@@ -1,3 +1,4 @@
+//version 1
 const CACHE_NAME = 'v1';
 const CACHE_ASSETS = [
     '/',
